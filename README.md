@@ -1,4 +1,4 @@
-# learning-python
+# Learning Python
 
 Python is a great programming language. Here's a list of things I've been doing to learn Python.
 
